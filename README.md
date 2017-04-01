@@ -1,2 +1,2 @@
 # Finite-State-Machines
-A VHDL implementation of basic Finite State Machines (FSM) and reverse engineering other hidden FSMs.
+A VHDL implementation of Finite State Machines (FSM) and reverse engineering other hidden FSMs.
